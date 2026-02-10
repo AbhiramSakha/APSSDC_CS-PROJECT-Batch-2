@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://images.pexels.com/photos/349758/pexels-photo-349758.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=300&w=900" alt="Nature Header" />
-</p>
-
 <h1 align="center">🍃 APSSDC CS Project — Batch 2</h1>
 
 <p align="center">
