@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=24&duration=3500&pause=800&multiline=true&width=800&lines=Innovating+Real+World+CS+Solutions;Learning+Together+as+Team+Batch+2;APSSDC+Collaborative+Project+Hub" />
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
   <img src="https://img.shields.io/badge/Framework-Python%2FFlask-blue" />
